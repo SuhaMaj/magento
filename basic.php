@@ -53,3 +53,9 @@ recommendationRenderer.setApiKey('JAAso4n7ibZpbRxsIZyo2ccVt3E7np1C')
 </script>
 </head>
 <div id="bd_rec_Horizontal" data-template-type="carousel" height="450px"></div>
+<?php
+echo $_GET["name"];
+
+
+
+?>
