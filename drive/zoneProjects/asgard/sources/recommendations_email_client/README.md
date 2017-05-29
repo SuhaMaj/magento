@@ -1,1 +1,0 @@
-# EDE Email Client
